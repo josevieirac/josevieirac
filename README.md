@@ -1,5 +1,11 @@
 ### Olá, sou José Vieira, graduando em Ciência da Computação! 👋
+<div> 
+  <a href="https://www.linkedin.com/in/josevieirac/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:josevieira1709@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.behance.net/josevieiradesign_" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+</div>
 
+<!--
 <a href="mailto:josevieira1709@gmail.com">
   <img align = "left" alt = "José Vieira | Gmail" width = "25px" src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" / >
 </a>
