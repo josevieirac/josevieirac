@@ -19,14 +19,36 @@
 - 🌱 Atualmente estou estudando Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
 
+<div align="center">
+  <a href="https://github.com/josevieirac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevieirac&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jose-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Jose-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Jose-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Jose-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Jose-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Jose-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Jose-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Jose-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Jose-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Jose-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jose-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="-Jose-Devicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <img align="center" alt="Jose-Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
+  <img align="center" alt="Jose-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="José-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Jose-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+</div>
+<!--
 <a href="https://github.com/josevieirac/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&count_private=true&theme=dark" width = "380" />
 </a>
 
-
-
 <a href="https://github.com/josevieirac/github-readme-stats">
   <img align="center" src="https://github-readme-stats-josevieirac.vercel.app/api/top-langs/?username=josevieirac&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
 </a>
-
+-->
