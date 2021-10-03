@@ -8,22 +8,16 @@
 </a>
 
 <!--
-
 ! [ GitHub josevieirac ] (https://img.shields.io/github/followers/josevieirac?label=follow&style=social)
 <sub> ㅤ </sub>
 ! [ GitHub josevieirac ] (https://komarev.com/ghpvc/?username=josevieirac&label=Profile%20views&color=0eb45e&style=flat)
 -->
 
+<p></p>
 
 <sub> ㅤ </sub>
 - 🌱 Atualmente estou estudando Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
-
-<div align="center">
-  <a href="https://github.com/josevieirac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevieirac&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jose-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -43,12 +37,14 @@
   <img align="center" alt="José-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="Jose-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
-<!--
-<a href="https://github.com/josevieirac/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&count_private=true&theme=dark" width = "380" />
-</a>
 
-<a href="https://github.com/josevieirac/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-josevieirac.vercel.app/api/top-langs/?username=josevieirac&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
-</a>
--->
+<p></p>
+
+<div align="center">
+  <a href="https://github.com/josevieirac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevieirac&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josevieirac&theme=juicyfresh&row=1&no-bg=true&margin-w=10" width="760" alt="josevieirac" /></a> </p>
