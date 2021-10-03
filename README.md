@@ -24,8 +24,6 @@
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&count_private=true&theme=dark" width = "380" />
 </a>
 
-<div align = "center">
-  <a href="https://github.com/josevieirac">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josevieirac&layout=compact&langs_count=7&theme=dark" />
-</div>
+<a href="https://github.com/josevieirac/github-readme-stats">
+  <img onclick = "https://github.com/josevieirac/" align = "center" src = "http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling- 2_upscale-false.png "width =" 5 "/>
+</a>
