@@ -8,13 +8,18 @@
 </a>
 
 <!--
--->
+
 ! [ GitHub josevieirac ] (https://img.shields.io/github/followers/josevieirac?label=follow&style=social)
 <sub> ㅤ </sub>
 ! [ GitHub josevieirac ] (https://komarev.com/ghpvc/?username=josevieirac&label=Profile%20views&color=0eb45e&style=flat)
-
+-->
 
 
 <sub> ㅤ </sub>
 - 🌱 Atualmente estou estudando Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
+
+
+<a href="https://github.com/josevieirac/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=josevieirac&show_icons=true&count_private=true&theme=dark" width = "380" />
+</a>
