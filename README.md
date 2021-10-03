@@ -7,13 +7,14 @@
   <img align = "left" alt = "José Vieira | LinkedIN" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!---
-[! [ GitHub josevieirac ] (https://img.shields.io/github/followers/josevieirac?label=follow&style=social)] (https://github.com/josevieirac)
-<sub> ㅤ </sub>
-[! [ GitHub josevieirac ] (https://komarev.com/ghpvc/?username=josevieirac&label=Profile%20views&color=0eb45e&style=flat)] (https://github.com/josevieirac)
-
+<!--
 -->
+! [ GitHub josevieirac ] (https://img.shields.io/github/followers/josevieirac?label=follow&style=social)
 <sub> ㅤ </sub>
+! [ GitHub josevieirac ] (https://komarev.com/ghpvc/?username=josevieirac&label=Profile%20views&color=0eb45e&style=flat)
 
+
+
+<sub> ㅤ </sub>
 - 🌱 Atualmente estou estudando Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
