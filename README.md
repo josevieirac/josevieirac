@@ -13,6 +13,7 @@
 [! [ GitHub josevieirac ] (https://komarev.com/ghpvc/?username=josevieirac&label=Profile%20views&color=0eb45e&style=flat)] (https://github.com/josevieirac)
 
 -->
+<sub> ㅤ </sub>
 
 - 🌱 Atualmente estou estudando Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
