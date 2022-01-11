@@ -22,7 +22,7 @@
 
 
 <sub> ㅤ </sub>
-- 🌱 Atualmente estou estudando Flutter e Machine Learning!
+- 🌱 Atualmente estou estudando Desenvolvimento Mobile com APIs em Flask(Python) e NodeJS, e Apps em Flutter e Machine Learning!
 - 📫 Entre em contato comigo através do e-mail: josevieira1709@gmail.com
 
 <div style="display: inline_block"><br>
