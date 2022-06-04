@@ -1,4 +1,4 @@
-### Olá, sou José Vieira, graduando em Ciência da Computação! 👋
+### Olá, sou José Vieira, Bacharel em Ciência da Computação! 👋
 <div> 
   <a href="https://www.linkedin.com/in/josevieirac/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:josevieira1709@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
